@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\UC3QueueInsert\bin\Debug\netcoreapp3.1\UC3QueueInsert.exe
+C:\Users\91807\Desktop\Batch67\UC3QueueInsert\bin\Debug\netcoreapp3.1\UC3QueueInsert.deps.json
+C:\Users\91807\Desktop\Batch67\UC3QueueInsert\bin\Debug\netcoreapp3.1\UC3QueueInsert.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\UC3QueueInsert\bin\Debug\netcoreapp3.1\UC3QueueInsert.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\UC3QueueInsert\bin\Debug\netcoreapp3.1\UC3QueueInsert.dll
+C:\Users\91807\Desktop\Batch67\UC3QueueInsert\bin\Debug\netcoreapp3.1\UC3QueueInsert.pdb
+C:\Users\91807\Desktop\Batch67\UC3QueueInsert\obj\Debug\netcoreapp3.1\UC3QueueInsert.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\UC3QueueInsert\obj\Debug\netcoreapp3.1\UC3QueueInsert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\UC3QueueInsert\obj\Debug\netcoreapp3.1\UC3QueueInsert.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\UC3QueueInsert\obj\Debug\netcoreapp3.1\UC3QueueInsert.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\UC3QueueInsert\obj\Debug\netcoreapp3.1\UC3QueueInsert.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\UC3QueueInsert\obj\Debug\netcoreapp3.1\UC3QueueInsert.dll
+C:\Users\91807\Desktop\Batch67\UC3QueueInsert\obj\Debug\netcoreapp3.1\UC3QueueInsert.pdb
+C:\Users\91807\Desktop\Batch67\UC3QueueInsert\obj\Debug\netcoreapp3.1\UC3QueueInsert.genruntimeconfig.cache
