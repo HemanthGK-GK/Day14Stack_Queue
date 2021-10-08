@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\StkPop\bin\Debug\netcoreapp3.1\StkPop.exe
+C:\Users\91807\Desktop\Batch67\StkPop\bin\Debug\netcoreapp3.1\StkPop.deps.json
+C:\Users\91807\Desktop\Batch67\StkPop\bin\Debug\netcoreapp3.1\StkPop.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\StkPop\bin\Debug\netcoreapp3.1\StkPop.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\StkPop\bin\Debug\netcoreapp3.1\StkPop.dll
+C:\Users\91807\Desktop\Batch67\StkPop\bin\Debug\netcoreapp3.1\StkPop.pdb
+C:\Users\91807\Desktop\Batch67\StkPop\obj\Debug\netcoreapp3.1\StkPop.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\StkPop\obj\Debug\netcoreapp3.1\StkPop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\StkPop\obj\Debug\netcoreapp3.1\StkPop.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\StkPop\obj\Debug\netcoreapp3.1\StkPop.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\StkPop\obj\Debug\netcoreapp3.1\StkPop.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\StkPop\obj\Debug\netcoreapp3.1\StkPop.dll
+C:\Users\91807\Desktop\Batch67\StkPop\obj\Debug\netcoreapp3.1\StkPop.pdb
+C:\Users\91807\Desktop\Batch67\StkPop\obj\Debug\netcoreapp3.1\StkPop.genruntimeconfig.cache
