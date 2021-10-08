@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\UC4Dequeue\bin\Debug\netcoreapp3.1\UC4Dequeue.exe
+C:\Users\91807\Desktop\Batch67\UC4Dequeue\bin\Debug\netcoreapp3.1\UC4Dequeue.deps.json
+C:\Users\91807\Desktop\Batch67\UC4Dequeue\bin\Debug\netcoreapp3.1\UC4Dequeue.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\UC4Dequeue\bin\Debug\netcoreapp3.1\UC4Dequeue.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\UC4Dequeue\bin\Debug\netcoreapp3.1\UC4Dequeue.dll
+C:\Users\91807\Desktop\Batch67\UC4Dequeue\bin\Debug\netcoreapp3.1\UC4Dequeue.pdb
+C:\Users\91807\Desktop\Batch67\UC4Dequeue\obj\Debug\netcoreapp3.1\UC4Dequeue.csproj.AssemblyReference.cache
+C:\Users\91807\Desktop\Batch67\UC4Dequeue\obj\Debug\netcoreapp3.1\UC4Dequeue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\UC4Dequeue\obj\Debug\netcoreapp3.1\UC4Dequeue.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\UC4Dequeue\obj\Debug\netcoreapp3.1\UC4Dequeue.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\UC4Dequeue\obj\Debug\netcoreapp3.1\UC4Dequeue.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\UC4Dequeue\obj\Debug\netcoreapp3.1\UC4Dequeue.dll
+C:\Users\91807\Desktop\Batch67\UC4Dequeue\obj\Debug\netcoreapp3.1\UC4Dequeue.pdb
+C:\Users\91807\Desktop\Batch67\UC4Dequeue\obj\Debug\netcoreapp3.1\UC4Dequeue.genruntimeconfig.cache
